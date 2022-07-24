@@ -40,6 +40,7 @@ Task sequence may vary.
 
 ## Requirements
  - [Node.js](https://nodejs.org/en/) >= v10
+ - [python2](https://www.python.org/download/releases/2.0/)
 
 ## Getting Started
 
