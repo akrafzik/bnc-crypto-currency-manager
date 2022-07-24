@@ -5,13 +5,16 @@ Fell free to contribute to project with comments and suggestions. This project i
 
 ## Development Objectives
 - [X] Setup template
+- [X] Setup base ts REST API
+- [ ] Setup mongodb Connection
+- [X] Online Logging
+- [ ] Private Routes with JWT
 - [ ] Create basic landing page
     - [ ] About
     - [ ] Github
 - [ ] Set headers with Login button to manager.
 - [ ] Login/Register page.
     - [ ] Email and password
-    - [ ] JWT
     - [ ] Gmail integration
     - [ ] Tests
 - [ ] Configurations page to setup api keys and environment.
@@ -29,7 +32,6 @@ Fell free to contribute to project with comments and suggestions. This project i
     - [ ] Spot - Any
     - [ ] Futures - BTC/USD
     - [ ] Futures - Any
-- [ ] Online Logging 
 - [ ] Deployment
     - [ ] Set cloud provider
     - [ ] Docker files
@@ -64,5 +66,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 - [UI Template](https://www.creative-tim.com/learning-lab/nextjs/quick-start/argon-dashboard) - Free template documentation
+- [Loggly](https://www.loggly.com/) - Online Logs Tool
 <!-- - [Learn react-i18next](https://react.i18next.com/guides/quick-start) - quick start to use i18next on you Next.js project -->
 
