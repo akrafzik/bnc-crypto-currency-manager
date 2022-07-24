@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project to create a crypto currency man
 Fell free to contribute to project with comments and suggestions. This project is personal and I want to use it as a way to study programming and Crypto Investment at same time :)
 
 ## Development Objectives
-- [ ] Setup template
+- [X] Setup template
 - [ ] Create basic landing page
     - [ ] About
     - [ ] Github
